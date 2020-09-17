@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gogu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gogu\\.nuget\\packages"
+    ]
+  }
+}
